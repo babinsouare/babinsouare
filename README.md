@@ -1,13 +1,6 @@
 
 ### Hi there 👋
-2
-​
-3
-<!--
-4
-**babinsouare/babinsouare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-5
-​
+
 6
 Here are some ideas to get you started:
 7
@@ -25,7 +18,7 @@ Here are some ideas to get you started:
 13
 - 📫 How to reach me: ...
 14
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 15
 - ⚡ Fun fact: ...
 16
